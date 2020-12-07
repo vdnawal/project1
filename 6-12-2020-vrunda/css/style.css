@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 15px;
+}
+.img_logo{
+    margin-right: 10px;
+}
+
+.logo_text{
+    font-family: 'Sonsie One', cursive;
+    font-size: 20px;
+    color: orange;
+}
+
+#map{
+    height: 500px;
+    border: 2px solid black;
+}
